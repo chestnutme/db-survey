@@ -162,6 +162,7 @@ High-performance, lock-free Bw-Tree for indexing.
 * [Let's build a simple database](https://cstack.github.io/db_tutorial/)
 * [The nuts and bolts of DBMS construction: building your own prototype](http://pages.saclay.inria.fr/ioana.manolescu/SLIDES/LernerManolescu-SBBD2003.pdf)
 * [Building a new database management  system in acadimia](http://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html)
+* [The last decade of database research and its blindingly bright future. or Database Research: A love song](https://dawn.cs.stanford.edu/2018/04/11/db-community/)
 
 
 
