@@ -58,6 +58,9 @@ tags: db, research
 ## Project
 ### Relations Database Management System
 
+* [Hekaton](https://www.microsoft.com/en-us/research/publication/hekaton-sql-servers-memory-optimized-oltp-engine/)
+> Hekaton is a memory-optimized OLTP engine integrated in SQL Server 2014 and is also known as The In-Memory OLTP. Hekaton allows a table to be stored and resides in main memory and can be queried in the same way as disk-based SQL Server tables. Hekaton mainly improves its performance on many-core CPUs by improving scalability and reducing the number of instructions executed for a single query. Scalability is provided by Hekaton by eliminating latches and locks. Native compilation process which compiles stored procedures and tables into efficient machine code can reduce instructions executed for queries.]
+
 * [Calvin](http://github.com/yaledb/calvin)
 > Calvin is a scalable transactional database system that leverages determinism to guarantee active replication and full ACID-compliance of distributed transactions without two-phase commit. Most of the code is for VLDB 2014 paper: 《An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems》
 
